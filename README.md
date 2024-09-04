@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 A Fully Functionaly project display is at https://mzuch9numf.us-east-2.awsapprunner.com/
 This repo only contains the front end.
 
